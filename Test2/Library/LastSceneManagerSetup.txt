@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TestPetra.unity
+- path: Assets/Scenes/TestTerreRotation.unity
   isLoaded: 1
   isActive: 1
