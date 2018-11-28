@@ -157,7 +157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OrbitPivot: {fileID: 1964602101}
-  OrbitSpeed: 50
+  OrbitSpeed: 40
 --- !u!135 &101274495
 SphereCollider:
   m_ObjectHideFlags: 0

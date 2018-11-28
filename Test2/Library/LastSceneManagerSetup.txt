@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TestTerreRotation.unity
+- path: Assets/Scenes/TestMacchu.unity
   isLoaded: 1
   isActive: 1
